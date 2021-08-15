@@ -1,4 +1,5 @@
-﻿# MultivariateLinearRegression
+#Analysis of user decisions in educational game using python programming language
+#MultivariateLinearRegression
 Implementation of Thesis <br/>
 Don't forget to import all libraries <br/>
 Example Output provided <br/>
